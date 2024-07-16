@@ -438,3 +438,8 @@ footer {
 footer p {
   text-align: center;
 }
+
+.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
